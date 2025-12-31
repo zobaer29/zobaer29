@@ -65,10 +65,15 @@
   <div style="flex: 1; background: linear-gradient(135deg, #f0f9ff, #e0f2fe); padding: 25px; border-radius: 15px; border-left: 5px solid #22D3EE;">
     <h3 style="color: #0ea5e9; margin-top: 0;">🎯 Professional</h3>
     <ul style="color: #374151;">
-      <li>💻 <strong>Full-Stack Developer</strong> with MERN stack expertise</li>
-      <li>🚀 Building scalable web applications with modern technologies</li>
-      <li>🎨 Passionate about clean code and intuitive UI/UX</li>
-      <li>🔧 Strong problem-solving skills with DSA background</li>
+      - 🚀 **Full-Stack Web Developer (MERN + Next.js)**  
+      - 🎓 **BSc in CSE** at **United International University (UIU)**  
+      - 🧠 Strong foundation in **DSA & problem solving**  
+      - 💻 Frontend: **React, Next.js, Tailwind CSS, JavaScript**  
+      - 🔧 Backend: **Node.js, Express.js, REST APIs**  
+      - 🗄️ Database: **MongoDB, MySQL**  
+      - ⚙️ Tools: **Git, GitHub, VS Code, Postman**  
+      - 📬 Email: **zobaerislamshanto@gmail.com**
+
     </ul>
   </div>
   
@@ -76,7 +81,6 @@
     <h3 style="color: #dc2626; margin-top: 0;">🎓 Education</h3>
     <ul style="color: #374151;">
       <li>🏫 <strong>BSc in CSE</strong> at United International University (UIU)</li>
-      <li>📚 Currently pursuing my undergraduate degree</li>
       <li>🎯 Focus on Software Engineering & Web Development</li>
       <li>📊 Maintained strong academic performance</li>
     </ul>
