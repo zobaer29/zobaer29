@@ -73,7 +73,7 @@
 
 ### 🌐 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,redux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,html,css,tailwind,redux&theme=dark" />
 </p>
 
 ### ⚙️ Backend & Database
@@ -83,8 +83,9 @@
 
 ### 🛠️ Tools & Deployment
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode&theme=dark" />
 </p>
+
 
 ---
 
