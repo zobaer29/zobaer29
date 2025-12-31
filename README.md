@@ -12,7 +12,7 @@
     ">
       <img 
         src="https://drive.google.com/thumbnail?id=1Mxu3mHDWxEzIyxQ-SKbaVcmsjpzsAj9m&sz=w500" 
-        alt="Md Zobaer Islam" 
+        alt="Md Zobaer Islam." 
         width="170" 
         height="170" 
         style="border-radius: 50%; border: 3px solid white;"
@@ -65,15 +65,10 @@
   <div style="flex: 1; background: linear-gradient(135deg, #f0f9ff, #e0f2fe); padding: 25px; border-radius: 15px; border-left: 5px solid #22D3EE;">
     <h3 style="color: #0ea5e9; margin-top: 0;">🎯 Professional</h3>
     <ul style="color: #374151;">
-      - 🚀 **Full-Stack Web Developer (MERN + Next.js)**  
-      - 🎓 **BSc in CSE** at **United International University (UIU)**  
-      - 🧠 Strong foundation in **DSA & problem solving**  
-      - 💻 Frontend: **React, Next.js, Tailwind CSS, JavaScript**  
-      - 🔧 Backend: **Node.js, Express.js, REST APIs**  
-      - 🗄️ Database: **MongoDB, MySQL**  
-      - ⚙️ Tools: **Git, GitHub, VS Code, Postman**  
-      - 📬 Email: **zobaerislamshanto@gmail.com**
-
+      <li>💻 <strong>Full-Stack Developer</strong> with MERN stack expertise</li>
+      <li>🚀 Building scalable web applications with modern technologies</li>
+      <li>🎨 Passionate about clean code and intuitive UI/UX</li>
+      <li>🔧 Strong problem-solving skills with DSA background</li>
     </ul>
   </div>
   
@@ -98,32 +93,12 @@
 
 ### ⚙️ Backend & Database
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,postgresql,graphql,prisma&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,prisma&theme=dark&perline=8" />
 </div>
 
 ### 🛠️ Tools & DevOps
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,aws,vercel,netlify,postman,vscode&theme=dark&perline=9" />
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-  <!-- Stats Cards -->
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=PokkaVau&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE" height="180" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PokkaVau&theme=radical&hide_border=true&background=0D1117&stroke=22D3EE&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" height="180" />
-  </div>
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PokkaVau&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=22D3EE" height="180" />
-  
-  <!-- Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=PokkaVau&theme=radical&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" />
-  
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode&theme=dark&perline=9" />
 </div>
 
 ---
@@ -149,40 +124,16 @@ Modern social media application with real-time messaging, notifications, and dar
 
 ---
 
-### 💼 **Job Portal**
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-Job search platform with advanced filtering, resume upload, and employer dashboard.
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&color=22D3EE)](https://your-portfolio-link.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-zobaer-islam-zs29/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/zobayer.shanto.1460)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zobaer___shanto/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zobaerislamshanto@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PokkaVau)
 
-</div>
-
----
-
-## 🎯 Currently Learning
-
-<div align="center">
-  
-  ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-  
 </div>
 
 ---
