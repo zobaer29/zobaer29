@@ -37,7 +37,7 @@
 
   <!-- Typing Animation -->
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js+%7C+Express;MERN+Stack+Specialist;API+Driven+Applications;Problem+Solver" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js+%7C+Express;MERN+Stack+Specialist" />
   </p>
 
   <!-- Badges -->
