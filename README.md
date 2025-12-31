@@ -1,168 +1,146 @@
-<!-- Profile Header with Modern Gradient Background -->
+<!-- ================= PROFILE HEADER ================= -->
 <div align="center">
-  
-  <!-- Profile Image with Modern Border -->
-  <div style="position: relative; width: 180px; height: 180px; margin: 0 auto 20px;">
+
+  <!-- Profile Image -->
+  <div style="position: relative; width: 160px; height: 160px; margin: 0 auto 20px;">
     <div style="
-      width: 180px;
-      height: 180px;
+      width: 160px;
+      height: 160px;
       background: linear-gradient(45deg, #22D3EE, #3B82F6, #8B5CF6);
       border-radius: 50%;
-      padding: 5px;
+      padding: 4px;
     ">
       <img 
-        src="https://drive.google.com/thumbnail?id=1Mxu3mHDWxEzIyxQ-SKbaVcmsjpzsAj9m&sz=w500" 
-        alt="Md Zobaer Islam." 
-        width="170" 
-        height="170" 
+        src="https://drive.google.com/thumbnail?id=1Mxu3mHDWxEzIyxQ-SKbaVcmsjpzsAj9m&sz=w500"
+        alt="Md Zobaer Islam"
+        width="150"
+        height="150"
         style="border-radius: 50%; border: 3px solid white;"
       />
     </div>
-    <!-- Online Status Indicator -->
     <div style="
       position: absolute;
-      bottom: 15px;
-      right: 15px;
-      width: 20px;
-      height: 20px;
+      bottom: 10px;
+      right: 10px;
+      width: 16px;
+      height: 16px;
       background-color: #10B981;
       border-radius: 50%;
       border: 3px solid white;
     "></div>
   </div>
 
-  <!-- Name with Gradient Text -->
+  <!-- Name -->
   <h1 style="
-    font-size: 2.8rem;
+    font-size: 2.6rem;
     background: linear-gradient(90deg, #22D3EE, #3B82F6, #8B5CF6);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    background-clip: text;
     margin-bottom: 10px;
   ">
     👋 Md Zobaer Islam
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/>
   </h1>
 
-  <!-- Animated Typing -->
+  <!-- Typing Animation -->
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;MERN+Stack+Specialist;UI%2FUX+Enthusiast;Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js+%7C+Express;MERN+Stack+Specialist;API+Driven+Applications;Problem+Solver" />
   </p>
 
   <!-- Badges -->
   <p>
-    <img src="https://img.shields.io/badge/Open%20to%20Work-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open to Work" />
-    <img src="https://img.shields.io/badge/Full%20Stack%20Developer-3B82F6?style=for-the-badge&logo=fullstory&logoColor=white" alt="Full Stack" />
-    <img src="https://img.shields.io/badge/Available%20for%20Freelance-8B5CF6?style=for-the-badge&logo=fiverr&logoColor=white" alt="Freelance" />
+    <img src="https://img.shields.io/badge/Open%20to%20Work-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Full%20Stack%20Developer-3B82F6?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Freelance%20Available-8B5CF6?style=for-the-badge" />
   </p>
+
 </div>
 
 ---
 
 ## 🚀 About Me
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-  <div style="flex: 1; background: linear-gradient(135deg, #f0f9ff, #e0f2fe); padding: 25px; border-radius: 15px; border-left: 5px solid #22D3EE;">
-    <h3 style="color: #0ea5e9; margin-top: 0;">🎯 Professional</h3>
-    <ul style="color: #374151;">
-      <li>💻 <strong>Full-Stack Developer</strong> with MERN stack expertise</li>
-      <li>🚀 Building scalable web applications with modern technologies</li>
-      <li>🎨 Passionate about clean code and intuitive UI/UX</li>
-      <li>🔧 Strong problem-solving skills with DSA background</li>
-    </ul>
-  </div>
-  
-  <div style="flex: 1; background: linear-gradient(135deg, #fef2f2, #fee2e2); padding: 25px; border-radius: 15px; border-left: 5px solid #EF4444;">
-    <h3 style="color: #dc2626; margin-top: 0;">🎓 Education</h3>
-    <ul style="color: #374151;">
-      <li>🏫 <strong>BSc in CSE</strong> at United International University (UIU)</li>
-      <li>🎯 Focus on Software Engineering & Web Development</li>
-      <li>📊 Maintained strong academic performance</li>
-    </ul>
-  </div>
-</div>
+- 💻 **Full-Stack Web Developer (MERN + Next.js)**
+- 🎓 **BSc in CSE**, United International University (UIU)
+- 🧠 Strong foundation in **DSA & problem solving**
+- ⚙️ Experience building **scalable REST APIs**
+- 🚀 Focused on **clean code, performance & scalability**
+- 📬 **Email:** zobaerislamshanto@gmail.com
 
 ---
 
 ## 💼 Tech Stack
 
-### 🔥 Frontend Mastery
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,redux,figma&theme=dark&perline=9" />
-</div>
+### 🌐 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,redux&theme=dark" />
+</p>
 
 ### ⚙️ Backend & Database
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,prisma&theme=dark&perline=8" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" />
+</p>
 
-### 🛠️ Tools & DevOps
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode&theme=dark&perline=9" />
-</div>
+### 🛠️ Tools & Deployment
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode,postman&theme=dark" />
+</p>
 
 ---
 
 ## 📁 Featured Projects
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-top: 30px;">
+### 🔥 MERN E-Commerce Platform
+- Admin dashboard, authentication, payment integration  
+- REST API with role-based access control
 
-### 🔥 **MERN E-commerce**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-Full-featured e-commerce platform with admin dashboard, payment integration, and real-time updates.
-
----
-
-### 🚀 **Next.js Social Media**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-Modern social media application with real-time messaging, notifications, and dark mode.
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-zobaer-islam-zs29/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/zobayer.shanto.1460)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zobaer___shanto/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zobaerislamshanto@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PokkaVau)
-
-</div>
+### 🚀 Next.js Social Media App
+- Real-time messaging, notifications, dark mode  
+- Optimized SEO & server-side rendering
 
 ---
 
 ## 📈 GitHub Activity
 
-<!-- GitHub Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PokkaVau&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&area_color=22D3EE&line=22D3EE&point=3B82F6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PokkaVau&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-zobaer-islam-zs29/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/zobayer.shanto.1460">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/zobaer___shanto/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:zobaerislamshanto@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🏆 GitHub Metrics
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PokkaVau&color=22D3EE&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/PokkaVau?style=flat-square&color=22D3EE" />
+  <img src="https://img.shields.io/github/stars/PokkaVau?style=flat-square&color=22D3EE" />
 </p>
 
 ---
 
 <div align="center">
-
-### 🏆 **GitHub Metrics**
-![Profile Views](https://komarev.com/ghpvc/?username=PokkaVau&color=22D3EE&style=flat-square)
-![Followers](https://img.shields.io/github/followers/PokkaVau?color=22D3EE&style=flat-square)
-![Stars](https://img.shields.io/github/stars/PokkaVau?color=22D3EE&style=flat-square)
-
+  <i>"First make it work. Then make it right. Then make it fast."</i>
 </div>
 
----
-
-<div align="center">
-  <p style="font-style: italic; color: #6B7280; font-size: 0.9rem;">
-    "Code is like humor. When you have to explain it, it's bad." – Cory House
-  </p>
-  <p>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100%" />
-  </p>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
+</p>
