@@ -14,7 +14,7 @@
         src="https://drive.google.com/thumbnail?id=1Mxu3mHDWxEzIyxQ-SKbaVcmsjpzsAj9m&sz=w500"
         alt="Md Zobaer Islam"
         width="150"
-        height="150"
+        height="300"
         style="border-radius: 50%; border: 3px solid white;"
       />
     </div>
