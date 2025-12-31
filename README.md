@@ -1,1 +1,99 @@
-hello
+<!-- Animated Header -->
+<h1 align="center">
+  Hi there 👋, I'm 
+  <span style="color:#22D3EE; font-weight:bold;">Md Zobaer Islam</span>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+</h1>
+
+<!-- Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com
+    ?font=Fira+Code
+    &pause=1000
+    &color=22D3EE
+    &center=true
+    &vCenter=true
+    &width=620
+    &lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js+%7C+Express;MongoDB+%7C+REST+APIs+%7C+Git+%26+GitHub;CSE+Student+at+UIU"
+    alt="Typing SVG" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🚀 **Full-Stack Web Developer (MERN + Next.js)**
+- 🎓 **BSc in CSE** at **United International University (UIU)**
+- 🧠 Strong foundation in **DSA & problem solving**
+- 💻 Frontend: **React, Next.js, Tailwind CSS, JavaScript**
+- 🔧 Backend: **Node.js, Express.js, REST APIs**
+- 🗄️ Database: **MongoDB, MySQL**
+- ⚙️ Tools: **Git, GitHub, VS Code, Postman**
+- 📬 Email: **zobaerislamshanto@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind&theme=dark" />
+</p>
+
+### 🧠 Backend & Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
+</p>
+
+### ⚙️ Tools & Deployment
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify&theme=dark" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=PokkaVau&show_icons=true&theme=react&hide_border=true"
+    height="180"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=PokkaVau&theme=react&hide_border=true"
+    height="180"
+  />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.facebook.com/zobayer.shanto.1460" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/zobaer___shanto/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/md-zobaer-islam-zs29/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-004182?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:zobaerislamshanto@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 👁️ Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PokkaVau&label=Profile%20Views&color=22D3EE&style=flat-square" />
+</p>
+
+---
+
+<p align="center">
+  💡 <i>“From UI to API — building complete, scalable web solutions.”</i>
+</p>
