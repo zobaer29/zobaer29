@@ -47,6 +47,17 @@
     <img src="https://img.shields.io/badge/Freelance%20Available-8B5CF6?style=for-the-badge" />
   </p>
 
+  <!-- ===== GitHub Follow Button (Option 2) ===== -->
+  <p align="center">
+    <a href="https://github.com/zobaer29">
+      <img src="https://github.com/zobaer29.png?size=50" width="50" style="border-radius:50%;" />
+    </a>
+    <br/>
+    <a href="https://github.com/zobaer29">
+      <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </p>
+
 </div>
 
 ---
@@ -78,7 +89,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode&theme=dark" />
 </p>
-
 
 ---
 
@@ -124,9 +134,9 @@
 ## 🏆 GitHub Metrics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PokkaVau&color=22D3EE&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/PokkaVau?style=flat-square&color=22D3EE" />
-  <img src="https://img.shields.io/github/stars/PokkaVau?style=flat-square&color=22D3EE" />
+  <img src="https://komarev.com/ghpvc/?username=zobaer29&color=22D3EE&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/zobaer29?style=flat-square&color=22D3EE" />
+  <img src="https://img.shields.io/github/stars/zobaer29?style=flat-square&color=22D3EE" />
 </p>
 
 ---
