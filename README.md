@@ -92,18 +92,6 @@
 
 ---
 
-## 📁 Featured Projects
-
-### 🔥 MERN E-Commerce Platform
-- Admin dashboard, authentication, payment integration  
-- REST API with role-based access control
-
-### 🚀 Next.js Social Media App
-- Real-time messaging, notifications, dark mode  
-- Optimized SEO & server-side rendering
-
----
-
 ## 📈 GitHub Activity
 
 <p align="center">
