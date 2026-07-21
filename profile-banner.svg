@@ -208,7 +208,7 @@
 <circle cx="500" cy="44.0" r="6" fill="#FF5F56" opacity="0.9"/>
 <circle cx="520" cy="44.0" r="6" fill="#FFBD2E" opacity="0.9"/>
 <circle cx="540" cy="44.0" r="6" fill="#27C93F" opacity="0.9"/>
-<text x="816.0" y="48.0" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="12" fill="#94A3B8" letter-spacing="0.6">zsh — zobaer29 — 80x24</text>
+<text x="816.0" y="48.0" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="12" fill="#94A3B8" letter-spacing="0.6">Md Zobaer Islam</text>
 <line x1="476" y1="64" x2="1156" y2="64" stroke="rgba(255,255,255,.08)" stroke-width="1"/>
 <g clip-path="url(#rightClip)">
 <rect x="476" y="-36" width="680" height="70" fill="url(#scanGrad)"><animate attributeName="y" values="-36;586" dur="6.5s" begin="1.2s" repeatCount="indefinite"/></rect>
