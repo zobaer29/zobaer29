@@ -1,94 +1,76 @@
 <!-- ================= PROFILE HEADER ================= -->
 <div align="center">
-
-  <!-- Profile Image -->
-  <div style="position: relative; width: 160px; height: 160px; margin: 0 auto 20px;">
-    <div style="
-      width: 160px;
-      height: 160px;
-      background: linear-gradient(45deg, #22D3EE, #3B82F6, #8B5CF6);
-      border-radius: 50%;
-      padding: 4px;
-    ">
-    </div>
-    <div style="
-      position: absolute;
-      bottom: 10px;
-      right: 10px;
-      width: 16px;
-      height: 16px;
-      background-color: #10B981;
-      border-radius: 50%;
-      border: 3px solid white;
-    "></div>
-  </div>
-
-  <!-- Name -->
-  <h1 style="
-    font-size: 2.6rem;
-    background: linear-gradient(90deg, #22D3EE, #3B82F6, #8B5CF6);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    margin-bottom: 10px;
-  ">
-    👋 Md Zobaer Islam
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/>
-  </h1>
-
-  <!-- Typing Animation -->
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js+%7C+Express;MERN+Stack+Specialist" />
-  </p>
-
-  <!-- Badges -->
-  <p>
-    <img src="https://img.shields.io/badge/Open%20to%20Work-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white" />
-    <img src="https://img.shields.io/badge/Full%20Stack%20Developer-3B82F6?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Freelance%20Available-8B5CF6?style=for-the-badge" />
-  </p>
-
-  <!-- ===== GitHub Follow Button (Option 2) ===== -->
-  <p align="center">
-    <a href="https://github.com/zobaer29">
-      <img src="https://github.com/zobaer29.png?size=50" width="50" style="border-radius:50%;" />
-    </a>
-    <br/>
-    <a href="https://github.com/zobaer29">
-      <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-  </p>
-
+  <img src="./profile-banner.svg" alt="Md Zobaer Islam — profile header" width="100%" />
 </div>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Deep+Learning+Researcher;CVD+Image+Correction+%7C+Computer+Vision;Full-Stack+Developer+%7C+MERN+%2B+Next.js" />
+</p>
+
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning%20Researcher-3B82F6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Freelance%20Available-8B5CF6?style=for-the-badge" />
+</p>
+
+<!-- ===== GitHub Follow Button ===== -->
+<p align="center">
+  <a href="https://github.com/zobaer29">
+    <img src="https://github.com/zobaer29.png?size=50" width="50" style="border-radius:50%;" />
+  </a>
+  <br/>
+  <a href="https://github.com/zobaer29">
+    <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
+- 🧠 **Deep Learning Researcher**, currently working on **CVD Image Correction** (accepted at **ICCIT 2026**)
 - 💻 **Full-Stack Web Developer (MERN + Next.js)**
 - 🎓 **BSc in CSE**, United International University (UIU)
-- 🧠 Strong foundation in **DSA & problem solving**
-- ⚙️ Experience building **scalable REST APIs**
-- 🚀 Focused on **clean code, performance & scalability**
+- 📍 **Location:** Dhaka, Bangladesh
+- ⚙️ Experience building **scalable REST APIs** and **research-driven ML pipelines**
+- 🚀 Focused on **clean code, model performance & reproducible research**
 - 📬 **Email:** zobaerislamshanto@gmail.com
 
 ---
 
 ## 💼 Tech Stack
 
+### 🧠 Machine Learning & Research
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" />
+</p>
+
 ### 🌐 Frontend
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,html,css,tailwind,redux&theme=dark" />
 </p>
 
 ### ⚙️ Backend & Database
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" />
 </p>
 
 ### 🛠️ Tools & Deployment
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,vscode&theme=dark" />
 </p>
+
+---
+
+## 🔬 Current Research
+
+**CVD Image Correction — Deep Learning approach** for assisting individuals with Color Vision Deficiency, accepted at **ICCIT 2026**.
 
 ---
 
