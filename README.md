@@ -30,7 +30,7 @@
 
 ## 🚀 About Me
 
-- 🧠 **Deep Learning Researcher**, currently working on **CVD Image Correction** (accepted at **ICCIT 2026**)
+- 🧠 **Deep Learning Researcher**, currently working on **CVD Image Correction**
 - 💻 **Full-Stack Web Developer (MERN + Next.js)**
 - 🎓 **BSc in CSE**, United International University (UIU)
 - 📍 **Location:** Dhaka, Bangladesh
