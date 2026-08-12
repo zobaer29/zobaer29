@@ -1,120 +1,24 @@
-<!-- ================= PROFILE HEADER ================= -->
-<div align="center">
-  <img src="./profile-banner.svg" alt="Md Zobaer Islam — profile header" width="100%" />
-</div>
+# 💫 About Me:
+🔭 I’m currently working on Full Stuck Development <br>👯 I’m looking to collaborate on Web Development, Open Source & Innovative Projects<br>🤝 I’m looking for help with Advanced Backend<br>🌱 I’m currently learning Development, System Design & Cloud Technologies<br>💬 Ask me about JavaScript, React, Next.js, PHP, MySQL & Web Development<br>⚡ Fun fact I love turning ideas into real-world projects and debugging things until they finally work! 
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Deep+Learning+Researcher;CVD+Image+Correction+%7C+Computer+Vision;Full-Stack+Developer+%7C+MERN+%2B+Next.js" />
-</p>
 
-<!-- Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep%20Learning%20Researcher-3B82F6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Freelance%20Available-8B5CF6?style=for-the-badge" />
-</p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/199XSnmbsf/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/zobaer___shanto?igsh=cnEzNmxnYjZ3bnYz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-zobaer-islam-zs29?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zobaerislamshanto@gmail.com) 
 
-<!-- ===== GitHub Follow Button ===== -->
-<p align="center">
-  <a href="https://github.com/zobaer29">
-    <img src="https://github.com/zobaer29.png?size=50" width="50" style="border-radius:50%;" />
-  </a>
-  <br/>
-  <a href="https://github.com/zobaer29">
-    <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+# 💻 Tech Stack:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=zobaer29&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=zobaer29&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=zobaer29&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=zobaer29&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=zobaer29&icon=0&color=5)](https://visitcount.itsvg.in)
 
-## 🚀 About Me
-
-- 🧠 **Deep Learning Researcher**, currently working on **CVD Image Correction**
-- 💻 **Full-Stack Web Developer (MERN + Next.js)**
-- 🎓 **BSc in CSE**, United International University (UIU)
-- 📍 **Location:** Dhaka, Bangladesh
-- ⚙️ Experience building **scalable REST APIs** and **research-driven ML pipelines**
-- 🚀 Focused on **clean code, model performance & reproducible research**
-- 📬 **Email:** zobaerislamshanto@gmail.com
-
----
-
-## 💼 Tech Stack
-
-### 🧠 Machine Learning & Research
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" />
-</p>
-
-### 🌐 Frontend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,html,css,tailwind,redux&theme=dark" />
-</p>
-
-### ⚙️ Backend & Database
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" />
-</p>
-
-### 🛠️ Tools & Deployment
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,vscode&theme=dark" />
-</p>
-
----
-
-## 🔬 Current Research
-
-**CVD Image Correction — Deep Learning approach** for assisting individuals with Color Vision Deficiency, accepted at **ICCIT 2026**.
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zobaer29&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/md-zobaer-islam-zs29/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.facebook.com/zobayer.shanto.1460">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/zobaer___shanto/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:zobaerislamshanto@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 🏆 GitHub Metrics
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zobaer29&color=22D3EE&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/zobaer29?style=flat-square&color=22D3EE" />
-  <img src="https://img.shields.io/github/stars/zobaer29?style=flat-square&color=22D3EE" />
-</p>
-
----
-
-<div align="center">
-  <i>"First make it work. Then make it right. Then make it fast."</i>
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
