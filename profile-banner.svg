@@ -171,52 +171,37 @@
 <line x1="24" y1="60" x2="460" y2="60" stroke="rgba(255,255,255,.08)" stroke-width="1"/>
 <g transform="translate(0,0)">
 <animateTransform attributeName="transform" type="translate" values="0,0; 0,-6; 0,0" dur="6s" repeatCount="indefinite" additive="sum"/>
-<!-- AI Cybernetic Dot-Matrix Developer Avatar -->
+<!-- Real GitHub Profile Image inside Futuristic Glowing Cyber HUD Frame -->
 <g transform="translate(242, 175)">
   <!-- Outer Rotating Radar Ring -->
-  <circle cx="0" cy="0" r="84" fill="none" stroke="url(#accentGrad)" stroke-width="1.5" stroke-dasharray="12 6" opacity="0.7">
+  <circle cx="0" cy="0" r="84" fill="none" stroke="url(#accentGrad)" stroke-width="1.5" stroke-dasharray="12 6" opacity="0.75">
     <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="15s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="0" cy="0" r="74" fill="none" stroke="rgba(34, 211, 238, 0.25)" stroke-width="1" stroke-dasharray="4 4">
+  <circle cx="0" cy="0" r="74" fill="none" stroke="rgba(34, 211, 238, 0.35)" stroke-width="1" stroke-dasharray="6 4">
     <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="20s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="0" cy="0" r="66" fill="rgba(15, 23, 42, 0.75)" stroke="rgba(255, 255, 255, 0.1)" stroke-width="1"/>
-  
-  <!-- Cyber Silhouette Mesh & Dot-Matrix Headset Avatar -->
-  <!-- Head outline dots -->
-  <circle cx="0" cy="-36" r="3.5" fill="#22D3EE" filter="url(#glowSm)"><animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/></circle>
-  <circle cx="-16" cy="-30" r="3" fill="#22D3EE" opacity="0.8"/>
-  <circle cx="16" cy="-30" r="3" fill="#22D3EE" opacity="0.8"/>
-  <circle cx="-28" cy="-18" r="3" fill="#A855F7" opacity="0.9"/>
-  <circle cx="28" cy="-18" r="3" fill="#A855F7" opacity="0.9"/>
-  
-  <!-- Headphones arc -->
-  <path d="M -34 -10 A 38 38 0 0 1 34 -10" fill="none" stroke="#22D3EE" stroke-width="3" filter="url(#glowSm)"/>
-  <rect x="-40" y="-12" width="9" height="20" rx="4" fill="#A855F7" filter="url(#glowSm)"/>
-  <rect x="31" y="-12" width="9" height="20" rx="4" fill="#A855F7" filter="url(#glowSm)"/>
 
-  <!-- Face Glasses / HUD visor dots -->
-  <polygon points="-20,-8 20,-8 15,4 -15,4" fill="rgba(34, 211, 238, 0.2)" stroke="#22D3EE" stroke-width="1.5" filter="url(#glowSm)"/>
-  <circle cx="-10" cy="-2" r="2.5" fill="#10B981"><animate attributeName="opacity" values="0.3;1;0.3" dur="1.5s" repeatCount="indefinite"/></circle>
-  <circle cx="10" cy="-2" r="2.5" fill="#10B981"><animate attributeName="opacity" values="1;0.3;1" dur="1.5s" repeatCount="indefinite"/></circle>
+  <!-- User's Real GitHub Profile Picture Clipped to Ring -->
+  <g>
+    <clipPath id="userAvatarClip">
+      <circle cx="0" cy="0" r="66"/>
+    </clipPath>
+    <image href="https://github.com/zobaer29.png" x="-66" y="-66" width="132" height="132" clip-path="url(#userAvatarClip)" preserveAspectRatio="xMidYMid slice"/>
+  </g>
 
-  <!-- Node Matrix Face Mesh -->
-  <line x1="-10" y1="-2" x2="10" y2="-2" stroke="#22D3EE" stroke-width="0.8" opacity="0.7"/>
-  <line x1="-15" y1="4" x2="0" y2="16" stroke="#A855F7" stroke-width="0.8" opacity="0.7"/>
-  <line x1="15" y1="4" x2="0" y2="16" stroke="#A855F7" stroke-width="0.8" opacity="0.7"/>
-  <circle cx="0" cy="16" r="2.5" fill="#22D3EE"/>
-  
-  <!-- Shoulders dot matrix -->
-  <path d="M -45 42 Q 0 25 45 42" fill="none" stroke="url(#accentGrad)" stroke-width="2" stroke-dasharray="3 3"/>
-  <circle cx="-32" cy="36" r="2.5" fill="#7C3AED"/>
-  <circle cx="-16" cy="31" r="2.5" fill="#22D3EE"/>
-  <circle cx="0" cy="29" r="3" fill="#10B981" filter="url(#glowSm)"/>
-  <circle cx="16" cy="31" r="2.5" fill="#22D3EE"/>
-  <circle cx="32" cy="36" r="2.5" fill="#7C3AED"/>
+  <!-- Glowing Neon Border Frame -->
+  <circle cx="0" cy="0" r="66" fill="none" stroke="url(#accentGrad)" stroke-width="2.5" filter="url(#glowSm)"/>
+  <circle cx="0" cy="0" r="68" fill="none" stroke="rgba(34, 211, 238, 0.5)" stroke-width="1"/>
 
-  <!-- Scanning Beam Effect across Avatar -->
-  <line x1="-60" y1="0" x2="60" y2="0" stroke="#22D3EE" stroke-width="1" opacity="0.6" filter="url(#glowSm)">
-    <animateTransform attributeName="transform" type="translate" values="0,-50; 0,50; 0,-50" dur="3.5s" repeatCount="indefinite"/>
+  <!-- HUD Corner Tech Reticles -->
+  <circle cx="-66" cy="0" r="3" fill="#22D3EE" filter="url(#glowSm)"/>
+  <circle cx="66" cy="0" r="3" fill="#22D3EE" filter="url(#glowSm)"/>
+  <circle cx="0" cy="-66" r="3" fill="#A855F7" filter="url(#glowSm)"/>
+  <circle cx="0" cy="66" r="3" fill="#10B981" filter="url(#glowSm)"/>
+
+  <!-- Laser Scanning Beam Effect across Profile Picture -->
+  <line x1="-66" y1="0" x2="66" y2="0" stroke="#22D3EE" stroke-width="1.5" opacity="0.75" filter="url(#glowSm)">
+    <animateTransform attributeName="transform" type="translate" values="0,-60; 0,60; 0,-60" dur="4s" repeatCount="indefinite"/>
   </line>
 </g>
 
