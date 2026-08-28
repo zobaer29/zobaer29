@@ -221,25 +221,25 @@
 <clipPath id="rClip0">
           <rect x="524" y="130" width="0" height="28">
             <animate id="rolePhase0" attributeName="width"
-              values="0;0;318.2;318.2;0;0"
+              values="0;0;380;380;0;0"
               keyTimes="0;0.05;0.32;0.72;0.92;1"
               dur="3.1s" begin="0s;rolePhase4.end" repeatCount="1"/>
           </rect>
         </clipPath>
-<g clip-path="url(#rClip0)"><text x="526" y="150" font-family="Menlo, Consolas, monospace" font-size="17" font-weight="600" fill="url(#accentGrad)">Full-Stack Developer (MERN + Next.js)</text></g>
+<g clip-path="url(#rClip0)"><text x="526" y="150" font-family="Menlo, Consolas, monospace" font-size="17" font-weight="600" fill="url(#accentGrad)">Full Stack Engineer (React &amp; Next.js)</text></g>
 <clipPath id="rClip1">
           <rect x="524" y="130" width="0" height="28">
             <animate id="rolePhase1" attributeName="width"
-              values="0;0;206.4;206.4;0;0"
+              values="0;0;370;370;0;0"
               keyTimes="0;0.05;0.32;0.72;0.92;1"
               dur="3.1s" begin="rolePhase0.end" repeatCount="1"/>
           </rect>
         </clipPath>
-<g clip-path="url(#rClip1)"><text x="526" y="150" font-family="Menlo, Consolas, monospace" font-size="17" font-weight="600" fill="url(#accentGrad)">Deep Learning Researcher</text></g>
+<g clip-path="url(#rClip1)"><text x="526" y="150" font-family="Menlo, Consolas, monospace" font-size="17" font-weight="600" fill="url(#accentGrad)">Node.js &amp; Express Backend Developer</text></g>
 <clipPath id="rClip2">
           <rect x="524" y="130" width="0" height="28">
             <animate id="rolePhase2" attributeName="width"
-              values="0;0;197.8;197.8;0;0"
+              values="0;0;230;230;0;0"
               keyTimes="0;0.05;0.32;0.72;0.92;1"
               dur="3.1s" begin="rolePhase1.end" repeatCount="1"/>
           </rect>
@@ -248,21 +248,21 @@
 <clipPath id="rClip3">
           <rect x="524" y="130" width="0" height="28">
             <animate id="rolePhase3" attributeName="width"
-              values="0;0;94.6;94.6;0;0"
+              values="0;0;280;280;0;0"
               keyTimes="0;0.05;0.32;0.72;0.92;1"
               dur="3.1s" begin="rolePhase2.end" repeatCount="1"/>
           </rect>
         </clipPath>
-<g clip-path="url(#rClip3)"><text x="526" y="150" font-family="Menlo, Consolas, monospace" font-size="17" font-weight="600" fill="url(#accentGrad)">UI Engineer</text></g>
+<g clip-path="url(#rClip3)"><text x="526" y="150" font-family="Menlo, Consolas, monospace" font-size="17" font-weight="600" fill="url(#accentGrad)">Database &amp; REST API Developer</text></g>
 <clipPath id="rClip4">
           <rect x="524" y="130" width="0" height="28">
             <animate id="rolePhase4" attributeName="width"
-              values="0;0;111.8;111.8;0;0"
+              values="0;0;350;350;0;0"
               keyTimes="0;0.05;0.32;0.72;0.92;1"
               dur="3.1s" begin="rolePhase3.end" repeatCount="1"/>
           </rect>
         </clipPath>
-<g clip-path="url(#rClip4)"><text x="526" y="150" font-family="Menlo, Consolas, monospace" font-size="17" font-weight="600" fill="url(#accentGrad)">AI Enthusiast</text></g>
+<g clip-path="url(#rClip4)"><text x="526" y="150" font-family="Menlo, Consolas, monospace" font-size="17" font-weight="600" fill="url(#accentGrad)">Software Developer &amp; Problem Solver</text></g>
 </g>
 <rect x="524" y="131" width="7" height="22" fill="#22D3EE" opacity="0.9"><animate attributeName="opacity" values="0.9;0.15;0.9" dur="0.9s" repeatCount="indefinite"/></rect>
 <line x1="510" y1="176" x2="1122" y2="176" stroke="rgba(255,255,255,.08)" stroke-width="1"/>
