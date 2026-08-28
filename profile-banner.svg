@@ -378,7 +378,7 @@
             <rect x="510" y="444" width="75.6" height="27" rx="13.5" fill="none" stroke="url(#pillGrad)" stroke-width="1">
               <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="5.7s" begin="1.48s" repeatCount="indefinite"/>
             </rect>
-            <text x="547.8" y="462" text-anchor="middle" font-family="-apple-system, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#F8FAFC">Docker</text>
+            <text x="547.8" y="462" text-anchor="middle" font-family="-apple-system, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#F8FAFC">MongoDB</text>
           </g>
         </g>
 <g opacity="0">
@@ -389,7 +389,7 @@
             <rect x="595.6" y="444" width="90.8" height="27" rx="13.5" fill="none" stroke="url(#pillGrad)" stroke-width="1">
               <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="6.3s" begin="1.56s" repeatCount="indefinite"/>
             </rect>
-            <text x="641.0" y="462" text-anchor="middle" font-family="-apple-system, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#F8FAFC">Postgres</text>
+            <text x="641.0" y="462" text-anchor="middle" font-family="-apple-system, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#F8FAFC">Express</text>
           </g>
         </g>
 <g opacity="0">
@@ -400,7 +400,7 @@
             <rect x="696.4" y="444" width="52.8" height="27" rx="13.5" fill="none" stroke="url(#pillGrad)" stroke-width="1">
               <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="4.5s" begin="1.64s" repeatCount="indefinite"/>
             </rect>
-            <text x="722.8" y="462" text-anchor="middle" font-family="-apple-system, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#F8FAFC">AWS</text>
+            <text x="722.8" y="462" text-anchor="middle" font-family="-apple-system, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#F8FAFC">MySQL</text>
           </g>
         </g>
 <g opacity="0">

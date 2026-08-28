@@ -1,12 +1,7 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,15,30&height=220&section=header&text=Md.%20Zobaer%20Islam&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20%26%20Software%20Engineer&descAlignY=62&descAlign=50" width="100%" />
-
-  <!-- Animated Typing Headline -->
-  <a href="https://github.com/zobaer29">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full+Stack+%26+Systems+Developer;Specializing+in+React%2C+Next.js+%26+Node.js;Architecting+Scalable+Web+Apps+%26+Cloud+APIs;Open+Source+Contributor+%26+Tech+Enthusiast" alt="Typing SVG" />
-  </a>
+  <!-- Custom Animated Glassmorphism Header Banner -->
+  <img src="./profile-banner.svg" width="100%" alt="Md Zobaer Islam Header Banner" />
 
   <br/><br/>
 
