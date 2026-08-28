@@ -123,22 +123,44 @@ Experienced **Full Stack Software Engineer** passionate about building robust, s
 
 ---
 
-### 📈 GitHub Insights & Statistics
+### 📈 GitHub Insights & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=zobaer29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zobaer29&theme=tokyonight&hide_border=true&layout=compact" height="175" />
+
+  <!-- Native GitHub Real-Time Metrics Badges -->
+  <a href="https://github.com/zobaer29?tab=followers">
+    <img src="https://img.shields.io/github/followers/zobaer29?style=for-the-badge&logo=github&color=0EA5E9&labelColor=0F172A" />
+  </a>
+  <a href="https://github.com/zobaer29?tab=repositories">
+    <img src="https://img.shields.io/badge/Public_Repositories-15+-22D3EE?style=for-the-badge&logo=github&labelColor=0F172A" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=zobaer29&style=for-the-badge&color=A855F7&labelColor=0F172A" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/GitHub_Status-Active_Full_Stack_Dev-10B981?style=for-the-badge&logo=github&labelColor=0F172A" />
+
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zobaer29&theme=tokyonight&hide_border=true&area=true" width="100%" />
-</div>
-
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=zobaer29&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-</div>
+<!-- Native Core Technology Focus Table -->
+<table align="center" width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <b>🚀 Primary Stack</b><br/>
+      <code>JavaScript (ES6+)</code><br/>
+      <code>React & Next.js</code><br/>
+      <code>Node.js & Express</code>
+    </td>
+    <td width="33%" align="center">
+      <b>🗄️ Database Architecture</b><br/>
+      <code>MongoDB (NoSQL)</code><br/>
+      <code>MySQL (Relational)</code><br/>
+      <code>Firebase Store</code>
+    </td>
+    <td width="33%" align="center">
+      <b>⚙️ Systems & Tools</b><br/>
+      <code>Git & Version Control</code><br/>
+      <code>RESTful API Design</code><br/>
+      <code>Python & C++</code>
+    </td>
+  </tr>
+</table>
