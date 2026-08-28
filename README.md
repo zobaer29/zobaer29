@@ -126,14 +126,14 @@ Experienced **Full Stack Software Engineer** passionate about building robust, s
 ### 📈 GitHub Insights & Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zobaer29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zobaer29&theme=tokyonight&hide_border=true&layout=compact" height="175" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=zobaer29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zobaer29&theme=tokyonight&hide_border=true&layout=compact" height="175" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=zobaer29&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zobaer29&theme=tokyonight&hide_border=true&area=true" width="100%" />
 </div>
 
 
