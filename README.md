@@ -136,11 +136,6 @@ Experienced **Full Stack Software Engineer** passionate about building robust, s
   <img src="https://streak-stats.demolab.com/?user=zobaer29&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
-</div>
 
 ---
 
