@@ -370,7 +370,7 @@
             <rect x="774.4000000000001" y="430" width="106.0" height="27" rx="13.5" fill="none" stroke="url(#pillGrad)" stroke-width="1">
               <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="6.3s" begin="1.24s" repeatCount="indefinite"/>
             </rect>
-            <text x="827.4000000000001" y="448" text-anchor="middle" font-family="-apple-system, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#F8FAFC">TypeScript</text>
+            <text x="827.4000000000001" y="448" text-anchor="middle" font-family="-apple-system, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#F8FAFC">JavaScript</text>
           </g>
         </g>
 <g opacity="0">
