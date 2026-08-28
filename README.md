@@ -22,17 +22,17 @@
 
 ### 👨‍💻 About Me
 
-Experienced **Full Stack Software Engineer** passionate about building robust, scalable web architectures and real-time systems. I specialize in modern JavaScript/TypeScript ecosystems (**React, Next.js, Node.js, Express**) along with relational & NoSQL databases (**MongoDB, MySQL**), IoT solutions, and cloud deployments.
+Experienced **Full Stack Software Engineer** passionate about building robust, scalable web applications and real-time systems. I specialize in modern JavaScript ecosystems (**React, Next.js, Node.js, Express**) along with relational & NoSQL databases (**MongoDB, MySQL**), web security, and IoT solutions.
 
-- 🔭 **Currently Building:** High-performance web applications and backend microservices (`BREAT Platform` & `CurrentNai`).
-- ⚡ **Architectural Focus:** System Design, RESTful & Real-time APIs, Cloud Infrastructures, Clean Architecture.
+- 🔭 **Currently Building:** High-performance web applications and backend services (`BREAT Platform` & `CurrentNai`).
+- ⚡ **Focus Areas:** Web Development, RESTful & Real-time APIs, Database Design, Clean Code.
 - 🎓 **Research & Innovation:** Computer Vision, Accessibility Solutions, and IoT Safety Systems.
-- 💬 **Ask me about:** React, Next.js, Node.js, Database Indexing, State Management, and CI/CD Pipelines.
+- 💬 **Ask me about:** React, Next.js, Node.js, Express, JavaScript, Database Queries & Web Development.
 - 📫 **Reach me:** `zobaerislamshanto@gmail.com`
 
 ---
 
-### 💻 Tech Stack & Architecture
+### 💻 Tech Stack & Tools
 
 <table>
   <tr>
@@ -47,7 +47,7 @@ Experienced **Full Stack Software Engineer** passionate about building robust, s
       <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h4>⚙️ Backend & Cloud Architecture</h4>
+      <h4>⚙️ Backend & API Development</h4>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
       <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
@@ -64,7 +64,7 @@ Experienced **Full Stack Software Engineer** passionate about building robust, s
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
     </td>
     <td width="50%" valign="top">
-      <h4>🛠️ Tools, Hardware & DevOps</h4>
+      <h4>🛠️ Tools, Hardware & Platforms</h4>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
       <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
